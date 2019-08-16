@@ -1,12 +1,7 @@
 ![Logo](images/imusify-logo-black.png)
 
-![Components](images/1.png)
 
-![Components](images/2_copy.png)
 
-![Components](images/3_copy.png)
-
-![Components](images/4.png)
 
 ## Values
 
@@ -889,6 +884,13 @@ Such marketing efforts leading up to, and following the imusify Token Sale, will
 
 
 
+![Components](images/4.png)
+
+![Components](images/1.png)
+
+![Components](images/2_copy.png)
+
+![Components](images/3_copy.png)
 
 
 
