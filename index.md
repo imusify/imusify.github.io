@@ -1,6 +1,8 @@
 # imusify
 
+
 ## Values
+
 
 ### Values first.
 Values are the constitution of imusify and are uncompromisable. We are an open and value-based economy and crypto-community. This means that we share common values and in order to share these values we develop and distribute products. Violation of the rules may lead to exclusion. 
