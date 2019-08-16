@@ -239,7 +239,7 @@ As a result, most musicians are not fairly compensated, despite the fact that th
 A million streams on Spotify generated an average revenue of less than $5,000 in 2017, and the artists had to wait up to 24 months to receive the payout.
 
 
-
+![Streams](images/2.png)
 
 
 
