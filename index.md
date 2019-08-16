@@ -46,56 +46,33 @@ We are a mastermind of masterminds. We as Individuals rarely make the impossible
 
 
 [Slack](https://join.slack.com/t/imusify/shared_invite/enQtNjk1ODcyMDMxODYzLWQxNDBhNTM2OTg5YjM2ZjRmZDcwMTE0NTVkM2MyMWNhZmM4NmRiNjZkYTE5YWQ5NmI5OWIyMTdhZmY1M2IwMDc)
-
 [Whitepaper](https://docs.google.com/document/d/1v6rkQ1T_sG7Zjpv9dlFPLenMbE7q47Xzj4Qq-xme-jA/edit)
-
 [Contributor Board](https://app.zenhub.com/workspaces/imusify-web-5bb5b97b4b5806bc2beb4b3f/board?repos=147397863)
-
 [Development Board](https://app.zenhub.com/workspaces/imusify-web-5bb5b97b4b5806bc2beb4b3f/board?repos=147397863)
-
 [How to use the imusify app](https://docs.google.com/document/d/1df1x91S2pzJ4LfDaKkhLJaSrUvoxdgVvuILUdtffHQo/edit#heading=h.gjdgxs)
-
 [imusify Github](https://github.com/imusify)
-
 [Medium](https://medium.com/imusify)
-
 [Instagram](https://www.instagram.com/imusify/)
-
 [Twitter](https://twitter.com/imusify)
-
 [Telegram Community](https://t.me/imusifycommunity)
-
 [Telegram Announcements](https://t.me/imusify)
-
 [Facebook Fanpage](https://www.facebook.com/imusify)
-
 [Facebook Group](https://www.facebook.com/groups/344310176008106/)
-
 [LinkedIn](https://www.linkedin.com/company/6461025/admin/)
-
 [YouTube](https://www.youtube.com/user/imusifyyt)
-
 [Zoom](https://zoom.us/j/6382053918?status=success)
-
 [Steemit](https://steemit.com/@imusify)
-
 [Reddit](https://www.reddit.com/r/imusify/)
-
 [BitcoinTalk](https://bitcointalk.org/index.php?topic=4327428.0)
-
 [Blockchain Explorer](https://neotracker.io/)
-
 [Dapps Competition](https://neonewstoday.com/portfolio/imusify/)
-
 [Platform API Documentation](https://imusify-prod.herokuapp.com/)
-
 [Development Guidelines](https://github.com/imusify/imusify-web/wiki/Development-guidelines)
-
 [Terms & Conditions]
 
 
 
-### Wallets
+# Wallets
 
 [O3](https://www.o3.network/)
 
