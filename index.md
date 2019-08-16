@@ -1,5 +1,12 @@
 ![Logo](images/imusify-logo-black.png)
 
+![Components](imusify.github.io/blob/master/images/1.png)
+
+![Components](imusify.github.io/blob/master/images/2_copy.png)
+
+![Components](imusify.github.io/blob/master/images/3_copy.png)
+
+![Components](imusify.github.io/blob/master/images/4.png)
 
 ## Values
 
