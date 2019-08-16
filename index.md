@@ -892,6 +892,8 @@ Such marketing efforts leading up to, and following the imusify Token Sale, will
 
 ![Components](images/3_copy.png)
 
+![Components](images/flowchart-large.png)
+
 
 
 # ROADMAP
