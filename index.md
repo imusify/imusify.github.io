@@ -181,7 +181,7 @@ Founder & CEO of Guardian Circle + $GUARD Token. Author of nine books (Harper Co
 
 
 # INTRODUCTION
-CEO STATEMENT
+### CEO STATEMENT
 
 My name is David Walters, I am the Founder and CEO of imusify. The story of imusify goes way back to when I was an active musician. I began writing songs at the age of 8, recording songs at the age of 14, and signed my first 360 deal (record deal, publishing deal, distribution deal, management and artist deal), released my first singles and LP at 18 and went on tour through multiple countries. Throughout these  years I had spent a lot of time and dedication but hadn't made enough to even cover rent. I had to rethink. I decided to expand and pursue my passion for music production and was lucky enough to find an investor who helped me build a decent recording studio. During this time the internet evolved and Napster entered the markets. Napster was a p2p file sharing platform with which you could download nearly any music title, instantly and for free... Suddenly nobody had to purchase music anymore. It was at the tip of your fingers. The whole industry was paralyzed. Any source of income had quickly dried out and Labels, Publishers, Managers etc. had no other option than to either go broke or reframe their models. This resulted in Labels and Publishers dumping the costs on the artists. Initially it was the Labels responsibility to invest into the production of records but now they no longer accepted artists unless they already had recorded music or a finished product, thus having to spend money for studio time. The artist had to come up for all the expenses up front and this “progression” lead to complete stagnation within the industry and destroyed the careers and lives of many, including mine. I didn't give up and spent many years struggling to make ends meet. Most of the time barely making it. I had to spend a lot of time doing side jobs just to afford running the recording studio. 
 
@@ -190,27 +190,28 @@ During this time a thought continuously evolved in my mind. What if there was an
 
 After 7 years of struggling I decided to take action and joined a fintech startup, thus setting aside my career as a musician. I knew I would join the best with this startup from which I could gather the skills needed in order to execute my plans. 
 
-What is the ultimate vision of imusify?
+### What is the ultimate vision of imusify?
 
 The ultimate vision of imusify is to create an international borderless ecosystem in which fans can directly interact with and financially support artists with the help of our platform and our native cryptocurrency, the “IMU”. The ecosystem consists of the imusify Platform, Musicians, Fans, Labels, Publishers, Managers, Distributors, Retailers and everybody else who loves music. The platform enables Musicians to monetize their works through various features such as p2p streaming, sales of singles, albums, synchronisation licenses and equipment, crowdfunding, copyright management, royalty distribution, rewards-system for on- and off platform interactions, referrals and live-event ticketing, all on the blockchain.  
 
-Why does the world need imusify in your personal experience?
+### Why does the world need imusify in your personal experience?
 
 Up until now the music industry has done their best to create structures that collect and distribute funds that belong to the content creators and rights holders. Many of these systems were created many decades ago and havent been significantly updated yet. This gave the opportunity to create monopolies that benefited everybody except for the content creators and rights holders. Only a fraction of the money is actually collected and of this only a very small percentage is paid out to the creators. Napster was a good start to decentralize the long held monopoly but it happened uncontrolled thus causing more harm than good. In my opinion, the world needs another disruption, but it needs a strategic approach to make sure that those who actually deserve the money, receive the money. 
 
-How will the world be different in 10 years from now if imusify succeeds?
+### How will the world be different in 10 years from now if imusify succeeds?
 
 Imagine spending time on the imusify platform and watching your wallet balance increase simply by participating. Imagine being able to use these funds to listen to music or to go to your favorite bands concert thus directly supporting them p2p. Imagine how many undiscovered talents will have a chance to publish their music thus enriching the lives of all. I believe the quality of our musical landscape will heavily increase thanks to decentralisation. We will experience a more diluted and democratically selected repertoire.
 
-What makes you and your team qualified to take on the project like this?
+### What makes you and your team qualified to take on the project like this?
 
 Most of us have a musical background. I've been a musician all my life, Jennie is a professional opera singer, Nate is a music producer, Gijs is a DJ, Luka is a singer, Alina studied music and plays piano, Marc is a singer, Vikas is a singer and composer, GL is a guitarist, Austin and Jonathan are artist managers. We have all experienced the flaws in the music industry first hand and have the determination to fix this is as a first and foremost personal passion. But not only that… we have all acquired skills in managerial positions. The struggle made us become entrepreneurs. Also our advisors have an extensive amount of experience in the music industry. 
 
-Why will this project be a success?
+### Why will this project be a success?
 
 This project will be successful because it goes beyond a whitepaper. We have proven that we can execute our plans and that our plans are not just a blurried vision. Our plans are based on first hand experience, thorough research, tested technological solutions, financial calculations, and a deep passion for the product to be realized. 
 
-ABOUT THIS WHITEPAPER
+
+## ABOUT THIS WHITEPAPER
 Today, music creators operate within a complex web of intermediaries when distributing digital content and attempting to recoup payments for their work. The imusify platform introduces a scalable and secure solution, allowing artists and creators to retain direct control over their work throughout the distribution process. More importantly, it transforms the way fans interact with artists, and amongst themselves, allowing users to become producers and contributors, instead of passive consumers.
  
 This paper presents the idea of such a decentralized music platform and smart economy and explains imusify’s favorable position to lead a widespread mass adoption of decentralized systems using the universal language of music.
@@ -223,7 +224,7 @@ The revolution is already starting, play your part!
 
 
 # EXECUTIVE SUMMARY
-THE PROBLEM
+### THE PROBLEM
 The digital age has transformed the music industry. Creating millions of copies of digital content now costs next to nothing, and the adoption of the internet has done the same for its distribution. More songs are now just a click away than have been recorded in decades before the advent of the internet, and consumers now prefer streaming (access) to downloads (ownership).
  
 Streaming services are on the rise, but the business industry as a whole failed to adopt. Instantaneous access and global nature of the services caused problems with digital rights management, payment transparency, and monetization of content.
@@ -244,7 +245,7 @@ A million streams on Spotify generated an average revenue of less than $5,000 in
 
 
 
-THE IMUSIFY PLATFORM
+## THE IMUSIFY PLATFORM
 The imusify platform proposes a solution. It integrates the best practices of streaming, media sharing, crowdfunding, and social networks to create an ecosystem in which the artists, fans, and music professionals can interact with one another on a decentralized marketplace.
  
 The underlying technology allows for tracking of the flow of content, and the smart contracts ensure a fair and immediate distribution of payouts. The content is reviewed automatically to determine copyright ownership, and digital identity tracking is used to prevent fraud.
@@ -259,14 +260,14 @@ Most competing distributed applications are unclear about their value propositio
  
 The imusify platform addresses the inefficiencies of the music industry holistically and surpasses the limitations of blockchain technology with new technological solutions. It plays to the interest of all users, including the big labels, and has a functional prototype.
 
-KEY TECHNOLOGICAL SOLUTIONS
+## KEY TECHNOLOGICAL SOLUTIONS
 The imusify platform builds on the solutions provided within NEO Smart Economy and implements several proprietary solutions to address the problems of scalability and security, hampering other distributed applications.
 
 These solutions allow the imusify platform to (i) surpass the scalability limitations by reducing the volume and number of transactions, required to be validated on the main chain; (ii) implementing digital identity and automated content screening solutions to prevent fraud and copyright infringement; and (iii) allowing each user to generate revenue by content production, ownership or curation, depending on their role in the economy.
  
 The imusify platform introduces several proprietary technological solutions, addressing the scalability issue, copyright infringements and fraud, and allowing every user to get paid as an active participant in the music economy if they wish to do so.
 
-PROJECT HIGHLIGHTS
+## PROJECT HIGHLIGHTS
 In November 2017, imusify won an award for second place out of 40 entries in the inaugural CoZ (City of Zion) dApp Competition. imusify developed a full stack decentralized application consisting of Backend, Frontend, Blockchain Middleware, an artist-incentifying Smart Contract and the IMU token. The App was built in only 4 weeks and localhuman commented: 
 
 “imusify got top marks from me for being such a well executed dApp on all levels of the tech stack, from the Smart Contract to the user interface. It was also one of the first dApps to use neo-python as a blockchain middleware for communication between UI and a Smart Contract. I look forward to seeing the project continue to grow!”
@@ -372,13 +373,13 @@ CONTACT
  
 imusify’s mission is to provide an open-source innovation space for developing new means of music distribution, consumption, and engagement. imusify is building a music smart economy to allow for the direct exchange of value between artists, fans, and other stakeholders, giving our community the power to control the future of the music industry.
 
-PLATFORM OVERVIEW
+## PLATFORM OVERVIEW
 The imusify platform is designed to provide artists with autonomy, higher income, and transparent transactions between service and product suppliers. imusify’s open-source, self-publishing platform also creates an efficient system for content creators to network and collaborate, while maintaining complete control over their work. The platform serves a variety of uses to different user types, serving as a news app, a messenger and networking space, an incubator, a music discovery platform, a marketplace for trading goods and services, a discussion forum, or a unique combination of these functions that provide the most enjoyment for each user. The imusify platform also offers an open innovation space to launch new products, features, tools, and services across the value chain of the music industry and beyond.
 
-VALUE PROPOSITION SUMMARY
+## VALUE PROPOSITION SUMMARY
 Harnessing the potential of decentralized technologies, imusify is connecting musicians and their fans, as well as other stakeholders (producers, labels, etc.), by creating a platform for the new music economy. It integrates the best practices of crowdfunding, streaming, media sharing, social networks, and management of the music value chain. The combination enables the musicians to fund the production of their music (Funding & Monetization), track the use of their content (Digital Rights Management), and be paid for plays and downloads via smart contracts (Payment Transparency); and the fans to support and enjoy the music of their favorite artist. Our unique value proposition is the use of blockchain ledgers to track content and smart contracts to automate the fair distribution of royalties.
 
-COMPETITIVE ADVANTAGES
+## COMPETITIVE ADVANTAGES
 With the value of the global market for digital music exceeding 12,000,000,000 USD, it is hardly surprising that imusify must compete with some strong global players to acquire a market share. However, be it Spotify in the streaming services market, iTunes in the digital downloads market, or Pledge Music in crowdfunding of music projects market, none of these players are direct competitors of imusify and, as explained in the following, they are part of the problem, rather than the solution.
  
 The only direct competitors of imusify are other decentralized music applications, which tend to disregard the barriers to adoption of distributed applications or provide any incentive for big players in the industry to join.
@@ -390,7 +391,7 @@ We have confirmed partnerships with various third parties, allowing us to integr
 We have the strong support of the NEO community and have been active participants in numerous blockchain related events, touring with NEO Japan, and on our own. 
 Last but not least, we have a strong community of over 300 contributors and advisors and a strong core team of dedicated professionals.
 
-VALUE GAP IN THE MUSIC INDUSTRY
+## VALUE GAP IN THE MUSIC INDUSTRY
 In today’s music industry, money speaks louder than ever. The rapid digitalization of music has led to a wide range of avenues for monetizing content. The problem, however, is that the music industry was built as a centralized system for physical distribution. This was practical in the 1970s when there was no internet, and record labels were distributing actual records, and it was comparably easy to keep track of the distribution of music. Such a centralized system was not designed for today’s digital world, and its outdated structure creates multiple inefficiencies in the music value chain.
 INDUSTRY LANDSCAPE
 The way we listen to music is changing fast, and the business of music is struggling to keep up. The global music market is now split between digital downloads, records, streaming, synchronization rights and ringtones.
@@ -405,7 +406,7 @@ The value gap describes the growing mismatch between the value that some digital
  
 The two largest streaming services -  Spotify and YouTube, had the worst payouts in 2018. Spotify paid an artist about $0.0038 per stream, while YouTube had a per-play rate of just $0.0006 per play on YouTube[6]. With such rates, an artist needs about 400,000 plays on Spotify, or 2,400,000 plays on YouTube to reach the minimum wage. Note, that most artists rarely work alone, and they have to share the proceeds with labels, producers, managers, and band-mates. Good luck with making a living on that. Most musicians would have made more money owning a lemonade stand.
 
-ADDRESSING THE VALUE GAP
+## ADDRESSING THE VALUE GAP
 Inconsistent applications of online liability laws have emboldened certain digital platforms to claim that they are not liable for the music they make available to the public. On-demand music platforms, use this as a shield to avoid licensing music like other digital services do, claiming they are not legally responsible for the music they distribute on their site[7].
  
 Artists, songwriters, record labels and other industry players have begun to take action to address music’s value gap. In June 2016, over 1,000 artists and performers including big names such as Sir Paul McCartney, Coldplay, and David Guetta, signed a petition requesting that the European Commission takes urgent action to address the value gap in music:
@@ -444,7 +445,7 @@ Signed by Thousands of Artists.
                                                                
 
 
-CENTRALIZATION – WIDENING THE VALUE GAP
+## CENTRALIZATION – WIDENING THE VALUE GAP
 While on-demand streaming platforms are some of the key targeted suspects for exploiting outdated legislation, the structure of the digital music system as a whole fails to reward artists for the value they provide through their work or to provide the resources artists need to develop sustainable and fair income. When providing digital content to streaming services, artists (especially smaller independent ones) have little chance to even maintain the rights to ownership of their work, let alone receive fair and timely payment for its use.
  
 
@@ -456,27 +457,27 @@ We can see from this example that the key source of inefficiency in the current 
  
 The centralized nature of the industry creates three key challenges for artists: digital rights management, payment transparency, and licensing and monetization. These key problem areas are discussed in detail below:
  
-DIGITAL RIGHTS MANAGEMENT
+## DIGITAL RIGHTS MANAGEMENT
 The lack of a comprehensive rights management regime creates several problems for
 managing artists’ digital rights, from lost revenues to misattribution of ownership. As of now, each rights holder receives their share by registering with a collecting society which has the duty of collecting and splitting the collected funds, called royalties, among all rights holders according to agreements, partially predetermined by the rights holders but also often predetermined by the collecting society. Even if artists can now produce, distribute, and market their work almost entirely digitally, they still have little control over ownership and security of rights.
 
-PAYMENT TRANSPARENCY
+## PAYMENT TRANSPARENCY
 Problems of payment transparency arise from the centralization of the royalty distribution system. Performance rights organizations conduct the process by collecting royalty payments from streaming services and then allocating payments to artists based on royalty rates set forth by organizations like The Copyright Royalty Board. There are also other transactional processes by which rights holders attempt to collect payments. According to the Arizona Law Review, “composers and songwriters typically sell or license their composition copyrights to publishing companies, which will administer the copyright in return for 25–50% of the proceeds. Thus, intermediaries often own the copyrights and receive a medium to a large share of the proceeds from exploiting the works2.”
 
-LICENSING AND MONETIZATION
+## LICENSING AND MONETIZATION
 Outdated laws surrounding licensing and rate-setting systems fail to utilize available technology to track licenses and deliver royalties. Digital music services do not have efficient systems in place to obtain and keep track of all licenses related to the varying types of digital consumption: radio, on-demand streaming, radio-like streaming, digital purchases and more. Smaller artists lack the resources to enforce control over their content and rights. With limited information about how their content-related payments actually work, they are often left with little to nothing.
 
-A PROBLEM WORTH SOLVING
+## A PROBLEM WORTH SOLVING
 As Hans Christian Andersen put it; “music speaks where words fail.” In fact, music is the universal language of mankind, if not nature itself. Think of how many memories would not have been the same without the music background that sways you into that nostalgic reminiscence. How many would have never been made if it was not for that very music? How dull would have been your life without it? Or as Nietzsche put it: “Without music, life would be a mistake.”
 
 Sometimes it seems like all great music was made before the internet age, and everything after has just been recycling of the past, or an uninspired repetition of the few contemporary hit songs.
  
 Developing talent and making great music takes time, dedication, and resources. With slim margins, even the big labels cannot afford to risk supporting an artist who is less than a safe bet, which is why everything seems to sound the same. The value gap is robbing us of new inspired music. Talented musicians turn away from the industry and pursue their careers elsewhere. How many great pieces of music will never be heard by a living soul because of our inability to provide a rewarding alternative? We feel that this problem needs solving, and it’s time for a new revolution in the music industry.
 
-A DECENTRALIZED SOLUTION  
+## A DECENTRALIZED SOLUTION  
 The music industry has been facing existential challenges over the past decade, and the landscape has been completely restructured due to digitalization and the introduction of digital streaming services. Since the technological breakthroughs of digitalization and internet have caused the shift in the landscape, perhaps the issues that arose may be solved by the application of business models, based on the emerging technology of blockchain.
 
-BLOCKCHAIN TECHNOLOGY AND DISTRIBUTED APPLICATIONS (dApps)
+## BLOCKCHAIN TECHNOLOGY AND DISTRIBUTED APPLICATIONS (dApps)
 At its core, a blockchain is a set of programmable protocols and strings of data that relate to a growing chain of the digital transaction such records1. Records are encrypted and stored on “blocks” of data across all network storage nodes, each confirming a set of transactions.
  
 Blockchain technology was originally designed to instill a provable form of trust when conducting transactions, rendering the “trusted intermediary” unnecessary – hence “decentralization.” At the time, however, blockchain existed solely as the technology behind the Bitcoin cryptocurrency and for the next few years blockchain was only understood by a marginal group of early crypto enthusiasts.
@@ -485,10 +486,10 @@ The next big development was the integration of a programming language, allowing
 This enabled development of a new breed of decentralized applications (dApps), connected to the blockchain, allowing them to expand beyond traditional distributed applications, like BitTorrent, Popcorn Time, BitMessage, and Tor[9].
 Such decentralized applications are beginning to pose a disruptive threat to various industries. Businesses and institutions around the world are seeking to understand and invest into blockchain ventures at a staggering rate1.
 
-APPLICATION TO MUSIC INDUSTRY
+## APPLICATION TO MUSIC INDUSTRY
 The imusify project is one of the pioneers of decentralization movement for the music industry. Other blockchain music projects also show leadership in tackling certain inefficiencies in relation to event booking and copyright management, as well as streaming services. Many use cases have been presented, suggesting to tackle the existing issues.
  
-(i)        Digital Rights Management
+(i)      Digital Rights Management
  
 The network power of blockchain provides the opportunity to create a comprehensive digital rights management system that eliminates the need for latent payment reconciliation. Instead, with such a system consumption information can be shared automatically, offering universal transparency to artists, distributors, and consumers.
  
@@ -496,11 +497,11 @@ The network power of blockchain provides the opportunity to create a comprehensi
  
 Blockchain offers several added values to the transactional procedures that occur throughout the music supply chain. With a comprehensive database of consumption content and verified users, blockchain posed solutions for making automatic and transparent royalty payments, not only to single individuals but distributed to a song’s respective rights holders. This improved payment process can provide more information to artists about how their work is being consumed and exactly what and how they are being compensated.
  
-(iii)         Licensing and Monetization
+(iii)    Licensing and Monetization
  
 With the presence of a decentralized database of content and ownership rights, artists have the opportunity to license and monetize content in exciting ways. Even small relatively unknown artists will have a marketplace where they can sell licenses for their work to be used in commercial videos, films, live events, and podcasts to name a few.
 
-BARRIERS TO ADOPTION OF DISTRIBUTED APPLICATIONS FOR MUSIC INDUSTRY
+## BARRIERS TO ADOPTION OF DISTRIBUTED APPLICATIONS FOR MUSIC INDUSTRY
 The imusify project is not the first one to propose to address the current pitfalls of the music industry in a decentralized fashion, utilizing blockchain technology. A number of such ventures raised a significant amount of funding in the last year, and some show promising results in their specific niches (event management, ticket sales, etc.). The problem is that the technology itself presents some serious barriers to mass adoption, which require thoughtful implementation of existing technological solutions.
  
 A number of blockchain protocols and networks have emerged since 2015, and over 1,450 dApps can now be found on the curated list of decentralized apps on Etherum alone[10]. While one can find a lot of interesting projects, and dApps with the potential to disrupt industries, the adoption is severely lagging. Total count of daily active users for all dApps is just over 10,000[11], which is a negligible number compared to centralized applications, e.g., Facebook, YouTube and WhatsApp, which have over 5,000,000,000 daily active users collectively[12].
@@ -560,12 +561,12 @@ Firstly, imusify exists as a platform (web and mobile applications) that allows 
  
 Equally as important, the imusify network leverages the flexibility of decentralized systems to connect users in exciting ways. imusify’s tokenized structure provides the IMU utility token to allow users to conduct transactions within the music smart economy.
  
-IMUSIFY PLATFORM COMPONENTS & FEATURES
+### IMUSIFY PLATFORM COMPONENTS & FEATURES
 imusify presents several features and functionalities that help users realize their intentions, from direct consumer-to-creator transactions, artist crowdfunding campaigns, and content licensing protocols. In addition to the features imusify provides to its community, the open-source platform allows users to build new use cases that deliver value and build connections using imusify’s smart contract system.
  
 Secure, transparent digital identities allow artists, consumers, producers, managers, venues, record labels, and other music stakeholders to establish an electronic identity as a means to interact, collaborate, and conduct transactions with other users. Users with music related digital identities can issue content, experiences, and projects as digital assets in order to protect their ownership of their creative work, and track its life cycle within the music economy. Smart contracts allow for music digital identities to trustfully conduct transactions. For example, an artist who registered digital identity distributes an album as a digital asset can use a smart contract to sell the asset to consumers and automatically receive payment from the transaction. To achieve that, the platform incorporates a number of components.
 
-COMPONENTS
+### COMPONENTS
 The key distinguishing features of the imusify platform as compared to the existing indirect competitors rely on the blockchain technology, particularly the NEO ecosystem and platform, to power its operations. They are briefly explained below as follows:
  
 (i)        Blockchain Technology:
@@ -603,7 +604,7 @@ Smart Contracts: NEO e.g.; https://github.com/imusify/smart-contract-incentify
 Applications: Javascript on Android, iOS and Electron (desktops)
 Central Infrastructure: None.
 
-PLATFORM FEATURES
+### PLATFORM FEATURES
 
 (i)        Crowdfunding Engine
  
@@ -629,7 +630,7 @@ In order for artists and various user types to interact intuitively with the pla
  
 Harnessing the security and immutability of imusify’s decentralized data ledger, imusify will implement a multi-layered protocol that allows content creators to manage ownership rights and licensing information. Adaptable tools give artists complete control over their content and each revenue stream it generates. An artist uploading a new song to the platform can, for example, recognize the contributions of songwriters, a band, and others involved in the creation of the song by assigning them ownership rights. Once the new song generates revenue (through streaming, synchronization, etc.) it will be distributed accordingly.
  
-SYSTEM ARCHITECTURE
+### SYSTEM ARCHITECTURE
  
 The imusify platform uses user personas to categorize user interactions and reward
 IMU tokens accordingly. When an individual signs up to use the platform they receive a user identity. The user withholds all identity information and serves as the reputation point for personas to be created on top of it. New personas are created either automatically, when a user commits a certain action, or by voluntarily creating a new persona to conduct a certain action. Personas and asset classifications are architectural system components used to build an organized and seamless UX for users to conduct different actions.
@@ -738,13 +739,13 @@ Specific use cases for the IMU token include the following:
 +  Crowdfund artist content projects
 +  Exchange of value between service providers and creators
 
-TOKEN DISTRIBUTION
+## TOKEN DISTRIBUTION
 The total supply of 1,000,000,000 ϑ IMU tokens will be distributed in an effort to maintain the long-term value of the imusify platform and network while taking into consideration the basic economic factors that can affect the viability of a utility token.
 
 
 
 
-TOKEN ECONOMICS AND MITIGATION OF VOLATILITY
+## TOKEN ECONOMICS AND MITIGATION OF VOLATILITY
 The nominal value of IMU(ϑ) tokens will be set by imusify. They will be sold in the imusify Token Sale at a discount. The imusify platform will allow users to exchange IMU(ϑ) Tokens for other cryptographic tokens and cryptocurrencies, as well as fiat money, by integrating third-party services (e.g., Switcheo and B2Broker). Such possibilities bring about the question of the value of IMU on the secondary market.  
  
 One of the critical features of the imusify platform is its function of the closed-loop digital currency on the platform. The relative stability of the IMU(ϑ) Token value may thus be a factor for the fair distribution of compensation between the users, contributing to the growth and development of the ecosystem. The value of goods and services on the platform will thus be calculated in USD, despite being denominated in IMU(ϑ), to ensure stability.
@@ -754,7 +755,7 @@ That said, the users are urged not to speculate, as the purpose of IMU(ϑ) is no
  
 Our partnership with B2Broker and other such third party service providers will allow our users to set their own parameters for exchanging IMU into various other currencies, including fiat currencies through their platforms. Seamless exchange of IMU will allow each user to ensure appropriate cost averaging and prevent them from being subjected to inevitable volatility of the IMU outside of the imusify platform, while re-calculation of value of services within the platform, will ensure, that every user is provided appropriate amount of IMU for their service or use of their content.
 
-IMUSIFY TOKEN SALE INFORMATION
+## IMUSIFY TOKEN SALE INFORMATION
 A portion of IMU(ϑ) tokens will be sold in imusify Token Sale, organized by IMUSIFY OÜ. Institutional token buyers, and individuals who meet applicable conditions and thresholds to qualify as accredited/experienced participants will be invited to participate in the Private Sale in which imusify is aiming to collect up to $5,000,000 of seed capital[15]. Remaining IMU(ϑ) Tokens will be sold to the public at the later stages of the imusify Token Sale, under the terms and conditions published on the imusify website.The IMU(ϑ) tokens will be sold with significant discounts during the token sale.
 
 After the imusify Token Sale, users will be able to purchase and exchange tokens on various exchanges. At this point, imusify has confirmed partnerships with O3 - mobile wallet and exchange, and Switcheo - a decentralized exchange.
@@ -789,10 +790,10 @@ TOKEN SALE ALLOCATION
 
 
 
-USE OF TOKEN SALE PROCEEDS
+## USE OF TOKEN SALE PROCEEDS
 
 
-IMUSIFY BUSINESS MODEL
+## IMUSIFY BUSINESS MODEL
 Our business model builds on the proven business models of crowdfunding platforms (Kickstarter, Indiegogo, BandCamp, etc.), music streaming services (Spotify, SoundCloud, Itunes), and harnesses the network effect of social networks (Facebook, Snapchat, Instagram) and multimedia sharing platforms (YouTube, Vimeo, Soundcloud).
  
 The success of the imusify business model depends on the number of registered users. After the initial boost, created by the imusify Token Sale, we will leverage the network effect, as the artists will be compelled to bring on their fan base to the platform. The process will be further accelerated through partnerships with big labels. We are proud to say that the prototype accessible at www.imusify.io already has over 800 users, despite the fact that it is not even meant as a fully-fledged product and has not been actively marketed yet. We find this to be an indication of interest.
@@ -801,11 +802,11 @@ Based on the analysis of these models, we decided for 2% transaction fee on all 
 PROJECTED REVENUE STRUCTURE
 
 
-IMUSIFY STRONG POINTS
+## IMUSIFY STRONG POINTS
 UNIQUE TECHNOLOGICAL SOLUTIONS
 The imusify platform will deploy a number of new technological solutions to address the inefficiencies of the music industry, as well as the barriers to adoptions, hindering mass-adoption of decentralized applications outlined in the previous chapters.
  
-SPLITTING PENNIES
+### SPLITTING PENNIES
  
 The imusify platform is based on pay-per-stream/download model, where everything a user does is paid for automatically and instantly. This revolutionary approach requires transacting amounts significantly smaller than $0.01, which means, that we need a way to split pennies. IMU(ϑ) is infinitely divisible, enabling us to price a stream at about half a penny. We can even further divide that half a penny to allocate the proceeds of the stream fairly to the contributors of the content.
 COMMUNITY CONTENT CURATION:
