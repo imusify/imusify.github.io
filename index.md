@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# imusify
 
-You can use the [editor on GitHub](https://github.com/imusify/imusify.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Values
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Values first.
+Values are the constitution of imusify and are uncompromisable. We are an open and value-based economy and crypto-community. This means that we share common values and in order to share these values we develop and distribute products. Violation of the rules may lead to exclusion. 
 
-### Markdown
+c The Open Music Economy.
+Everybody is welcome to join and contribute if they feel their values match those of imusify. We believe in social equality and fairness. Success and status depend on talent, ability and effort regardless of socioeconomic and financial status. The harder we work, the luckier we get. Open Source, Open Company, Open Community, Open Society. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Punctuality, Preparation and Reliability.
+We value our time and don't have time to waste. Most important and uncompromisable. It’s not only about being on time, it's about being ahead of schedule and always being prepared. Chance favors the prepared. 
 
-```markdown
-Syntax highlighted code block
+### Speed.
+Speed first, perfection follows.
 
-# Header 1
-## Header 2
-### Header 3
+### Open Communication.
+We communicate in an open manner via facetime, in public channels or over the phone.
 
-- Bulleted
-- List
+### Entrepreneurship.
+Each member leads its own venture and should take self initiative. Think and take action and responsibility cause you are leading your own company. 
 
-1. Numbered
-2. List
+### Positivity.
+No Ego-Trippin´. We avoid drama, arrogance, sarcasm, cynicism, religion, politics and anything that causes separation and negativity. No attitudes, we are mature, humble and polite.  
 
-**Bold** and _Italic_ and `Code` text
+### Benevolence. 
+Treat others like they would like to be treated. Rather than focusing on our own goals as individuals, as a company or a public project, we aim to serve others. We dedicate ourselves to understanding and fulfilling the needs and dreams of others. We do this by  including our members, contributors, customers, shareholders, fans, and beyond. 
 
-[Link](url) and ![Image](src)
-```
+### Inspiration. 
+If you find yourself down, seek inspiration to lift yourself back up. Inspiration is contagious. Every single task we do, every single word we express comes from the heart and is of such exceptional enthusiasm that we inspire and ignite the hearts and minds of others. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Sustainability.
+We create sustainable systems. Each step we make should be documented so followers can simply repeat. Every task should be systemized for the highest value of return. 
 
-### Jekyll Themes
+### Vision.
+Our vision is to improve 50 Million lives. We see ourselves daily having already achieved our goals. We don’t submit to limiting belief systems. Anything is possible. It is just a matter of belief, time, dedication, and a bit of luck.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imusify/imusify.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Mastermind. 
+We are a mastermind of masterminds. We as Individuals rarely make the impossible possible. We do this in an organized effort. We connect brilliant minds and amazing talent to form a global mastermind that is able to change to the world. 
