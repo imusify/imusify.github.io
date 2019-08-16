@@ -89,6 +89,8 @@ We are a mastermind of masterminds. We as Individuals rarely make the impossible
 
 [Platform API Documentation](https://imusify-prod.herokuapp.com/)
 
+[Development Guidelines](https://github.com/imusify/imusify-web/wiki/Development-guidelines)
+
 [Terms & Conditions]
 
 
