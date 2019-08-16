@@ -1,5 +1,3 @@
-# imusify
-
 ![Logo](images/imusify-logo-black.png)
 
 
