@@ -675,6 +675,9 @@ Individuals or groups may choose to spawn a crowdfunding campaign asset in order
 
 # PLATFORM ARCHITECTURE
 
+
+![Components](images/flowchart-large.png)
+
 TARGET AUDIENCE
 The imusify platform is being designed to serve a large and diverse pool of target audiences and allows for fluid transitions between various personas. It is intended to provide a marketplace for various services, a platform for distribution of content, and a source of revenue for industry executives, such as labels and music agents and managers. Most importantly, it allows a passive consumer to take on the active role of content curator, or producer, and earn additional income on the platform.
 
@@ -895,7 +898,7 @@ Such marketing efforts leading up to, and following the imusify Token Sale, will
 
 ![Components](images/3_copy.png)
 
-![Components](images/flowchart-large.png)
+
 
 
 
