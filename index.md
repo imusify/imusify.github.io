@@ -104,23 +104,31 @@ We are a mastermind of masterminds. We as Individuals rarely make the impossible
 
 
 
-Governance
+# Governance
 
-Levels:
 
-Users: Anybody that uses our products including Contributors, Members and Core Team. 
-Contributors: Anybody that brings value to the ecosystem and aligns with our values.
-Members: Contributors that have been elected to be members. Minimum requirements: 12 months regular contribution and proven track record of alignment with our values, demonstrated  consistent self-initiative, 1,000,000 IMU accumulated, elected by members. Fixum negotiable. 
-Core: Members who have been elected to join the core team. Minimum requirements: 24 months regular contribution as member, proven track record of alignment with our values, demonstrated consistent managerial and entrepreneurial skills, 5,000,000 IMU accumulated. Elected by Core members. Fixum negotiable.
-Managers: Core, Members or Contributors elected by Core Team to manage Core, members and Contributors or a subdivision. Fixum negotiable. 
+## Levels:
 
-Rewards
+
+### Users: 
+Anybody that uses our products including Contributors, Members and Core Team. 
+### Contributors: 
+Anybody that brings value to the ecosystem and aligns with our values.
+### Members: 
+Contributors that have been elected to be members. Minimum requirements: 12 months regular contribution and proven track record of alignment with our values, demonstrated  consistent self-initiative, 1,000,000 IMU accumulated, elected by members. Fixum negotiable. 
+### Core: 
+Members who have been elected to join the core team. Minimum requirements: 24 months regular contribution as member, proven track record of alignment with our values, demonstrated consistent managerial and entrepreneurial skills, 5,000,000 IMU accumulated. Elected by Core members. Fixum negotiable.
+### Managers: 
+Core, Members or Contributors elected by Core Team to manage Core, members and Contributors or a subdivision. Fixum negotiable. 
+
+
+## Rewards
 We reward based on efforts and contribution, not on job titles or what type of work is done.
 Rewards will be displayed per individual tasks on the Trello Rewards Board. 
 Rewards can be withdrawn if a minimum of 1000 IMU has been reached. 
 Reward Spreadsheet
 
-General Guidelines
+## General Guidelines
 Interested people are welcome to join our Zoom Hangouts, Slack and Trello Rewards Board
 We use real pictures and real names on Slack, Trello and other tools.
 We praise in public and criticize in private. 
@@ -128,19 +136,22 @@ Negativity spreads like a wildfire and may result in immediate exclusion.
 Simplicity
 Lean Development
 
-Slack Workflow
+
+## Slack Workflow
 General Channel: All general discussions, Github Development and  Trello Rewards Board activties are posted here for everyone to follow and comment. 
 Notifications should be turned on to increase speed. 
 Only Core Members have the status “imusify official”. 
 
 
+## Contributor Board Workflow:
 
-
-Trello Rewards Board Workflow:
-
-Ideas: Any ideas are posted here. Make sure to give the ideas thought and describe the idea as detailed as possible so others can understand, envision and execute the idea. 
-New: Ideas that have been confirmed by Core Members are listed here and are ready to be executed. Contributors, Members, Core and Managers can take on the task by commenting and notifying a Core Member by marking with @Coremember. Once confirmed via comment by Core member the task can be executed. 
-In Progress: Tasks that have been confirmed by Core Members will be forwarded to this list. Once the task is completed, notify a Core Member in the comment section that the task is ready for review. Once approved by Core Member the task is forwarded to the Completed Column. 
-Completed: Contributors that successfully complete tasks that are approved by Core Members receive the amount of rewards tagged on the task card. These will be documented in a spreadsheet and the task will be archived. 
+### Ideas: 
+Any ideas are posted here. Make sure to give the ideas thought and describe the idea as detailed as possible so others can understand, envision and execute the idea. 
+### New: 
+Ideas that have been confirmed by Core Members are listed here and are ready to be executed. Contributors, Members, Core and Managers can take on the task by commenting and notifying a Core Member by marking with @Coremember. Once confirmed via comment by Core member the task can be executed. 
+### In Progress: 
+Tasks that have been confirmed by Core Members will be forwarded to this list. Once the task is completed, notify a Core Member in the comment section that the task is ready for review. Once approved by Core Member the task is forwarded to the Completed Column. 
+### Completed: 
+Contributors that successfully complete tasks that are approved by Core Members receive the amount of rewards tagged on the task card. These will be documented in a spreadsheet and the task will be archived. 
 Archived: Successfully completed and approved tasks are listed in this column and shall be not be deleted. 
 
