@@ -5,7 +5,7 @@
 ### Values first.
 Values are the constitution of imusify and are uncompromisable. We are an open and value-based economy and crypto-community. This means that we share common values and in order to share these values we develop and distribute products. Violation of the rules may lead to exclusion. 
 
-c The Open Music Economy.
+### The Open Music Economy.
 Everybody is welcome to join and contribute if they feel their values match those of imusify. We believe in social equality and fairness. Success and status depend on talent, ability and effort regardless of socioeconomic and financial status. The harder we work, the luckier we get. Open Source, Open Company, Open Community, Open Society. 
 
 ### Punctuality, Preparation and Reliability.
