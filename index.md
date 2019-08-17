@@ -1,6 +1,6 @@
 ![Components](images/4.png)
 
-
+![Whitepaper](https://github.com/imusify/imusify.github.io/blob/master/Index2.md)
 
 
 
