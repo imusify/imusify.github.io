@@ -516,9 +516,9 @@ the music they love, whenever and wherever they want to
 do so. But the future is jeopardised by a substantial ‘value
 gap’ caused by user upload services such as Google’s
 YouTube that are unfairly siphoning value away from the
-music community and its artists and songwriters.
+music community and its artists and songwriters.*
 
-This situation is not just harming today’s recording artists
+*This situation is not just harming today’s recording artists
 and songwriters. It threatens the survival of the next
 generation of creators too, and the viability and the
 diversity of their work.”*
