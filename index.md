@@ -161,24 +161,24 @@ Contributors that successfully complete tasks that are approved by Core Members 
 Archived: Successfully completed and approved tasks are listed in this column and shall be not be deleted. 
 
 
-“imusify got top marks from me for being such a well executed dApp on all levels of the tech stack, from the Smart Contract to the user interface. It was also one of the first dApps to use neo-python as a blockchain middleware for communication between UI and a Smart Contract. I look forward to seeing the project continue to grow!”
+*“imusify got top marks from me for being such a well executed dApp on all levels of the tech stack, from the Smart Contract to the user interface. It was also one of the first dApps to use neo-python as a blockchain middleware for communication between UI and a Smart Contract. I look forward to seeing the project continue to grow!”*
 
 Thomas Saunders
 Co-founder of City of Zion and Nash Exchange (previously NEX)
 
 
-"imusify has the potential to disrupt the value chain of the music industry - I'm a fan of imusify." 
+*"imusify has the potential to disrupt the value chain of the music industry - I'm a fan of imusify."* 
 
 Fabian Wahle
 Co-founder of City of Zion, Nash Exchange (previously NEX) and NEO St. Petersburg Compentence Center
 
-“Having presented alongside the imusify team in NEO Japan, I am confident the imusify team is amongst the most dedicated teams in both the blockchain and music space, and capable of exceeding expectations on their product launch!”
+*“Having presented alongside the imusify team in NEO Japan, I am confident the imusify team is amongst the most dedicated teams in both the blockchain and music space, and capable of exceeding expectations on their product launch!”*
 
 Jack Yeu
 Co-founder Switcheo
 
 
-"I personally met the team at the Blacksea Hackathon and I must say, imusify has a very solid team that is solving a really obvious problem. I'm very enthusiastic about this project!"
+*"I personally met the team at the Blacksea Hackathon and I must say, imusify has a very solid team that is solving a really obvious problem. I'm very enthusiastic about this project!"*
 
 Mark Jeffrey 
 Founder & CEO of Guardian Circle + $GUARD Token. Author of nine books (Harper Collins)
@@ -275,7 +275,7 @@ The imusify platform introduces several proprietary technological solutions, add
 ## PROJECT HIGHLIGHTS
 In November 2017, imusify won an award for second place out of 40 entries in the inaugural CoZ (City of Zion) dApp Competition. imusify developed a full stack decentralized application consisting of Backend, Frontend, Blockchain Middleware, an artist-incentifying Smart Contract and the IMU token. The App was built in only 4 weeks and localhuman commented: 
 
-“imusify got top marks from me for being such a well executed dApp on all levels of the tech stack, from the Smart Contract to the user interface. It was also one of the first dApps to use neo-python as a blockchain middleware for communication between UI and a Smart Contract. I look forward to seeing the project continue to grow!”
+*“imusify got top marks from me for being such a well executed dApp on all levels of the tech stack, from the Smart Contract to the user interface. It was also one of the first dApps to use neo-python as a blockchain middleware for communication between UI and a Smart Contract. I look forward to seeing the project continue to grow!”*
 
 localhuman
 City of Zion Council
@@ -509,7 +509,7 @@ Letter to the European Commission
 
 
 
-“This is a pivotal moment for music. Consumption is exploding.
+*“This is a pivotal moment for music. Consumption is exploding.
 Fans are listening to more music than ever before.
 Consumers have unprecedented opportunities to access
 the music they love, whenever and wherever they want to
@@ -521,7 +521,7 @@ music community and its artists and songwriters.
 This situation is not just harming today’s recording artists
 and songwriters. It threatens the survival of the next
 generation of creators too, and the viability and the
-diversity of their work.”
+diversity of their work.”*
 
 Signed by Thousands of Artists. 
                                                                
@@ -571,15 +571,15 @@ Such decentralized applications are beginning to pose a disruptive threat to var
 ## APPLICATION TO MUSIC INDUSTRY
 The imusify project is one of the pioneers of decentralization movement for the music industry. Other blockchain music projects also show leadership in tackling certain inefficiencies in relation to event booking and copyright management, as well as streaming services. Many use cases have been presented, suggesting to tackle the existing issues.
  
-(i)      Digital Rights Management
+### (i)      Digital Rights Management
  
 The network power of blockchain provides the opportunity to create a comprehensive digital rights management system that eliminates the need for latent payment reconciliation. Instead, with such a system consumption information can be shared automatically, offering universal transparency to artists, distributors, and consumers.
  
-(ii)   	Payment Transparency
+### (ii)   	Payment Transparency
  
 Blockchain offers several added values to the transactional procedures that occur throughout the music supply chain. With a comprehensive database of consumption content and verified users, blockchain posed solutions for making automatic and transparent royalty payments, not only to single individuals but distributed to a song’s respective rights holders. This improved payment process can provide more information to artists about how their work is being consumed and exactly what and how they are being compensated.
  
-(iii)    Licensing and Monetization
+### (iii)    Licensing and Monetization
  
 With the presence of a decentralized database of content and ownership rights, artists have the opportunity to license and monetize content in exciting ways. Even small relatively unknown artists will have a marketplace where they can sell licenses for their work to be used in commercial videos, films, live events, and podcasts to name a few.
 
@@ -588,7 +588,7 @@ The imusify project is not the first one to propose to address the current pitfa
  
 A number of blockchain protocols and networks have emerged since 2015, and over 1,450 dApps can now be found on the curated list of decentralized apps on Etherum alone[10]. While one can find a lot of interesting projects, and dApps with the potential to disrupt industries, the adoption is severely lagging. Total count of daily active users for all dApps is just over 10,000[11], which is a negligible number compared to centralized applications, e.g., Facebook, YouTube and WhatsApp, which have over 5,000,000,000 daily active users collectively[12].
 
-(i)        Scalability issue
+### (i)        Scalability issue
 
 Blockchain networks, rely on various consensus mechanisms to ensure the validity of transactions. The transaction is verified by its incorporation into a block – hence the name “blockchain,” and finalized when the network reaches a consensus on its validity.
 The volume of transactions per second is thus dependent on the time it takes to incorporate each transaction into a block, and the time a particular network requires for reaching a consensus.
@@ -608,12 +608,12 @@ NEO: 1,000 transactions per second with average transaction confirmation time at
 Most of the existing decentralized applications in the music industry fail to address the scalability issue. If left unaddressed, this issue is a major barrier to adoption, preventing any of such applications to ever become a significant player on the market.
 
  
-(ii)   	Storage space
+### (ii)   	Storage space
  
 Existing on-demand streaming service providers spend significant money on the costs of hosting and streaming. Even poor quality mp3 tracks require a significant amount of digital storage space when there are tens of millions of them. Many of them use third-party services, such as the Google Cloud to store data. Spotify is estimated to have been paying approximately $ 290,000 just for such hosting service in 2016[14].
 Most competing projects fail to address this issue as well, despite the fact, that hosting and streaming costs would be significant. It’s also important to note that the sheer volume and size of streams would easily bring down any existing blockchain network if the streaming service itself is not somehow de-coupled from the blockchain, should the platform gain mass adoption (5 millions of users or more).
 
-(iii)  	Copyrights and Content Management
+### (iii)  	Copyrights and Content Management
  
 Every piece of music, such as musical works and sound recording, is legally protected by Copyright. As an author of music, a musician is the owner of a copyright and thus granted certain rights. These include the right to reproduce the copyrighted work, to prepare derivative works based upon the copyrighted work, to distribute copies of the copyrighted work to the public, to perform the copyrighted work publicly, and other.
  
@@ -623,13 +623,13 @@ Failure to comply with a complex system of Copyright Laws, combined with a numbe
  
 Despite some projects claiming otherwise, or simply being ignorant of that fact, decentralization does not automatically solve the problem of content management and distribution regulation. Any project that fails to address the issue of tracking Copyrights is doomed to suffer severe legal consequences in the future, which presents another problem for mass adoption.
  
-(iv)  	Failure to incentivize big players
+### (iv)  	Failure to incentivize big players
  
 While the idea of cutting out the middleman plays an important role in the narrative of the movement for decentralization, mass adoption of any new music platform requires the willingness of the big players in the music industry to participate. Most of the popular artists with the big following are signed and represented by big labels. They will not join unless they have a good – financial, incentive to do so.
  
 Most decentralized music applications fail to address this issue, and are thus missing out on the opportunity to onboard popular artists, and take full advantage of the network effect.
  
-(v)   	Volatility on the “crypto” market
+### (v)   	Volatility on the “crypto” market
  
 While blockchain poses myriad opportunities to increase the quality of life for virtually anyone in one way or another, operating as a decentralized organization presents an inherent risk. With the birth of cryptocurrencies and exchanges, the barrier to investment decreased dramatically. The subsequent flood of currencies and initial coin offerings (ICOs) entering the market has led to several economic boom and bust episodes.
  
@@ -651,100 +651,100 @@ Secure, transparent digital identities allow artists, consumers, producers, mana
 ### COMPONENTS
 The key distinguishing features of the imusify platform as compared to the existing indirect competitors rely on the blockchain technology, particularly the NEO ecosystem and platform, to power its operations. They are briefly explained below as follows:
  
-(i)        Blockchain Technology:
+### (i)        Blockchain Technology:
  
 While best known as the underpinning technology of emerging cryptocurrencies, the implications of blockchain technology reach much further than just the creation of a digital economy. In the case of imusify, blockchain enables automated tracking of the content flow and execution of transactions of the closed-loop currency IMU(ϑ) via smart contracts.
  
-(ii)   	Smart Contracts
+### (ii)   	Smart Contracts
  
 Smart contracts are protocols that facilitate credible transactions between users without the need for a third party or intermediary. imusify leverages NEO smart contracts to create a secure, democratic, censorship-free platform. With the use of smart contracts, artist’s digital assets can be self-managed achieving a music “smart economy” within the NEO established a network.
  
-(iii)      Neo Smart Economy
+### (iii)      Neo Smart Economy
  
 Through technologies such as P2P networking (via TCP and WebSocket), dBFT consensus (to guarantee fault tolerance), digital certificates (NEO smart contracts), superconducting transactions (supporting up to 10,000 tps as opposed to 15 tps on the Ethereum network), and cross-chain interoperability (the NeoX patent), the NEO community is able to organize networks like imusify to manage smart assets in an efficient, safe, and legally binding manner.
  
-(iv)      NeoVM - Universal Virtual Machine
+### (iv)      NeoVM - Universal Virtual Machine
  
 NEO uses a lightweight virtual machine with short booting times and low consumption of resources, which will be utilized by imusify to run the underlying smart contracts on the main chain.
  
-(v)       NEP-5 Token
+### (v)       NEP-5 Token
  
 The NEP-5 Proposal outlines a token standard for the NEO blockchain that provides systems with a generalized interaction mechanism for tokenized Smart Contracts. The imusify platform uses the NEP-5 standard token to create IMU(ϑ) tokens - a closed-loop cryptocurrency, which acts as a store of value and transaction vehicle on the imusify platform.
  
-(vi)      Digital Identity
+### (vi)      Digital Identity
  
 Within a smart economy, digital identity refers to the identity information of individuals and groups/organizations in electronic form. These identities offer a secure end-point for individuals to conduct transactions with others. The NEO “web-of-trust” compliance protocol also presents a key competitive advantage for imusify to differentiate itself over other music blockchain platforms. Using a “trustful,” as opposed to a “trust-less” system, digital identification exists to tie transactions to verified individual identity, conveniently supporting compliance with existing and future government regulations.
  
-(vii)    Digital Assets
+### (vii)    Digital Assets
  
 Digital assets are programmable physical assets that, when registered through a validated digital identity, are protected by law. By establishing a trustful association between digital assets and identities, users can register, trade, and circulate assets to conduct business. Through technologies such as P2P networking (via TCP and WebSocket), dBFT consensus (to guarantee fault tolerance), digital certificates (NEO smart contracts), superconducting transactions (supporting up to 10,000 tps as opposed to 15 tps on the Ethereum network), and cross-chain interoperability (the NeoX patent), the NEO community is able to organize networks like imusify to manage smart assets in an efficient, safe, and legally binding manner.
  
-(viii)   Tech Stack
+### (viii)   Tech Stack
  
 IMU(ϑ) Token: NEO NEP5
 Smart Contracts: NEO e.g.; https://github.com/imusify/smart-contract-incentify
 Applications: Javascript on Android, iOS and Electron (desktops)
 Central Infrastructure: None.
 
-### PLATFORM FEATURES
+## PLATFORM FEATURES
 
-(i)        Crowdfunding Engine
+### (i)        Crowdfunding Engine
  
 On the platform, artists can launch crowdfunding campaigns to fund music products like albums, videos, and tours. Artists have the power to offer, if they choose, a reward for their supporters in the form of early access to content, tickets, merchandise, and VIP fan experiences. Artists also have the option to engage supporters more fully by providing affiliate licenses, where fans who support an artist can profit directly by promoting and selling content within their networks. This functionality re-envisions the current equity-based music economy by giving independent artists the exposure they need to create sustainable growth and providing opportunities for fans and supporters to play a direct role in individual and industry growth as a whole.
  
-(ii)       Transparent and fair payments
+### (ii)       Transparent and fair payments
  
 As a music sharing platform, imusify automatically compensates artists on a per-stream basis by distributing funds directly to the user´s wallets of the individual or group of the given song’s rights holders. The system’s streaming platform is also designed to allow artists to offer discounts to a group of fans or during a certain promotional period. Per-stream rewards are monitored by imusify to ensure that compliance standards and regulations for royalty payments are met in relevant jurisdictions.
  
-(iii)  	The marketplace of Music Industry Participants
+### (iii)  	The marketplace of Music Industry Participants
  
 imusify is a place for all aspiring entrepreneurs, artists, and industry members to network and create communities. This marketplace allows participants to execute transactions pertaining to various business development or creative services and products including videography, production, advertising, content design, promotion and all other media-related or creative content. Product suppliers will also be able to list their products on the imusify marketplace to be sold directly to artists and supporters. An independent musician can now utilize this functionality by taking his earnings directly to the marketplace, and pay producers or engineers directly or update his home recording equipment without ever using a fiat currency.
  
-(iv)      Reward System
+### (iv)      Reward System
  
 In addition to rewarding artists for streaming royalties of their creative content (music), imusify’s reward system is designed to incentivize quality contribution and curation on the platform by rewarding creators of social content (posts, playlists, comments) for certain actions. For example, curators can be rewarded for high-quality contribution by receiving micropayments (similar to the size of artist royalty rewards) each time users subscribe or share the curator’s playlist. This improved system poses several advantages, from eliminating the need to release new tokens into circulation from imusify to reduce the possibility for the system’s manipulation by profiteers and scammers.
 
-(v)       Decentralized Exchange
+### (v)       Decentralized Exchange
  
 In order for artists and various user types to interact intuitively with the platform and conveniently realize their payments and rewards, it is crucial for there to exist a simple and convenient means to exchange IMU tokens to fiat and other currencies. imusify will integrate the NEON Exchange’s API to offer an in-platform exchange functionality that allows imusify users to exchange their tokens to other forms of currency instantly. While the technology is still being polished, imusify aims for full use of the API to be available to users by Q3 2019.
 
-(vi)      Co-evolutionary copyright management
+### (vi)      Co-evolutionary copyright management
  
 Harnessing the security and immutability of imusify’s decentralized data ledger, imusify will implement a multi-layered protocol that allows content creators to manage ownership rights and licensing information. Adaptable tools give artists complete control over their content and each revenue stream it generates. An artist uploading a new song to the platform can, for example, recognize the contributions of songwriters, a band, and others involved in the creation of the song by assigning them ownership rights. Once the new song generates revenue (through streaming, synchronization, etc.) it will be distributed accordingly.
  
-### SYSTEM ARCHITECTURE
+## SYSTEM ARCHITECTURE
  
 The imusify platform uses user personas to categorize user interactions and reward
 IMU tokens accordingly. When an individual signs up to use the platform they receive a user identity. The user withholds all identity information and serves as the reputation point for personas to be created on top of it. New personas are created either automatically, when a user commits a certain action, or by voluntarily creating a new persona to conduct a certain action. Personas and asset classifications are architectural system components used to build an organized and seamless UX for users to conduct different actions.
 
-(i)        Consumer Persona
+### (i)        Consumer Persona
  
 When a new user goes to listen to music content on the platform, a consumer persona is automatically created to retain the data pertaining to all of that mUser’s consumer actions. A user’s consumer persona allows them to purchase and stream content, join social communities, support artist campaigns, and earn rewards for curating content.
 
-(ii)   	Artist Persona
+### (ii)   	Artist Persona
  
 A user can also create an artist persona, which allows them to collaborate with others to produce new content, publish and promote that content on the imusify platform, and receive IMU payments for sales and license. The artist persona can also create a group persona of several individuals who work together to produce a certain piece of content.
 
-(iii)  	Collaborator Persona
+### (iii)  	Collaborator Persona
  
 Similar to the artist persona, the collaborator persona allows various types of creators (producers, videographers, instrumentalists) to join groups created by artists.
 
-(iv)      Venue Persona
+### (iv)      Venue Persona
  
 Lastly, users can create personas to represent physical entities. For example, the proprietor of the performance hall may create a venue persona to promote their physical space as one of imusify’s venues. Artist, collaborator, and venue personas can also list their services offered on the imusify marketplace. imusify’s unique marketplace allows various personas from around the world to connect, collaborate, and contribute to each other’s creative works.
 
-(v)   	Content Assets
+### (v)   	Content Assets
  
 User personas produce and interact with various digital assets on the imusify platform.
 A content asset represents a piece of digital audio content that exists on the imusify platform. An artist or collaborator persona can create a content asset. Each content asset maintains a record of all user interactions with the asset and uses this record to calculate how users are rewarded. The user reward system will be discussed in the next section.
 
-(vi)      Project Asset
+### (vi)      Project Asset
  
 A project asset encompasses the content assets of an individual or collective group of artist and collaborator personas. When multiple personas collaborate in the writing,
 recording, and production of content assets, a project asset serves to attribute
 credits to the contributors to each of the project's songs.
 
-(vii)    Campaign Asset
+### (vii)    Campaign Asset
  
 Individuals or groups may choose to spawn a crowdfunding campaign asset in order to gather the necessary resources to accomplish the project asset’s proposed endeavors. The campaign asset uses a smart contract to automatically and transparently distribute the raised funds to the project’s contributing personas.
 
@@ -755,58 +755,58 @@ Individuals or groups may choose to spawn a crowdfunding campaign asset in order
 
 ![Components](images/flowchart-large.png)
 
-TARGET AUDIENCE
+### TARGET AUDIENCE
 The imusify platform is being designed to serve a large and diverse pool of target audiences and allows for fluid transitions between various personas. It is intended to provide a marketplace for various services, a platform for distribution of content, and a source of revenue for industry executives, such as labels and music agents and managers. Most importantly, it allows a passive consumer to take on the active role of content curator, or producer, and earn additional income on the platform.
 
-CONTENT CREATORS
+### CONTENT CREATORS
 With varying types of content on the imusify platform, creators can range from a listener, a new artist or an executive producer. Anyone can join, contribute and be rewarded. This free, blockchain based, incentified and decentralized platform allows for music related digital content such as audio, video, apps, images, and blogging to be created on a collaborative basis between different users.
 
-THE “CRYPTO-COMMUNITY”
+### THE “CRYPTO-COMMUNITY”
 It is apparent that cryptocurrencies are more than an alternative form of payment and have already begun to change the global economic landscape over the past few years with the implementation of the existing blockchain technology. Through collaboration with the NEO network and the City of Zion developer community, imusify has emerged with a vision for all creators to have complete ownership over their intellectual property and the rights being divisible as agreed upon by all parties. On this more sophisticated network, smart contracts offer a vehicle for realizing and administering beneficial digital agreements. Therefore, imusify becomes ‘its’ very own entirely decentralized cryptocurrency ecosystem. imusify’s community is united with the intention to make imusify’s platform the foundation on which the global music economy will evolve.
 
-THE EXECUTIVE
+### THE EXECUTIVE
 Artists rely on various other stakeholders to aid them with the production and promotion of their music. In the traditional music economy, such executives and businesses receive partial ownership on the music and are entitled to royalty payments. The imusify platform provides the executives with a new marketplace where they can offer their services to artists. They can collaborate with artists and provide their services in exchange for automatically receiving a portion of the reward, received by the artists through the reward system.
 
-THE INFLUENCER
+### THE INFLUENCER
 Established industry professionals and well-known artists come to the platform to share their own songs, produce new content, collaborate with other artists, and mentor new talent. By bringing in their sphere of influence, interacting with users, and receiving up and down votes, they can increase their reputation and overall influence on the platform, as well as connect to a wider audience.
 
-USE CASE EXAMPLES
+### USE CASE EXAMPLES
 Staying true to its vision, the imusify platform is intended to provide for numerous use cases, depending on the specific situation and aspirations of the individual users. Some such use cases are outlined below to show how each user can utilize the imusify platform to further their interests.
 
-(i)        DJ / Producer
+### (i)        DJ / Producer
  
 Online music platforms have been an integral part of any DJ/producer’s rise to fame. There have previously been problems with rightful owners of music getting their content taken down by their own record labels, which will be solved with imusify’s blockchain powered rights management system. The rights situation for mixes is fairly complicated, where the rights to play a song in front of a live audience, does not necessarily imply the right to share it online. With music detection software a DJ can instantly pay the appropriate licenses for the tracks in the mix. Moreover, with the user-curated channels and instant buying options, finding music while preparing sets has never been easier. Currently, many DJs discover music on Soundcloud, Spotify, and other channels, and then have to find a way to buy this music in ultrahigh quality digital formats for use on large sound systems. With imusify, this could all be done on one platform.
 
-(ii)       Emerging Rapper
+### (ii)       Emerging Rapper
  
 As the biggest influencer of mainstream commercial music for over 10 years, Hip Hop is inevitably going to be one of the biggest genres of imusify. Artists like Fat Nick, Lil Pump, are now touring the world after gaining fandom on Soundcloud. By using imusify, a talented rapper will earn ϑ IMU from the first moment his/her content becomes popular. Later, managers, bookers, and other content buyers can purchase the artist’s music rights on the platform without any need for a record company.
 
-(iii)      Casual Filmmaker
+### (iii)      Casual Filmmaker
  
 The market for synchronization rights, or many different use licenses for music, lacks transparency and is not well developed online. The casual filmmaker can find music on imusify and seamlessly purchase the correct license with ϑ IMU, secured by the blockchain.
 
-(iv)  	Discovery Guru
+### (iv)  	Discovery Guru
  
 Everybody knows a person like this. He/she is always in the know of what’s new and cool. Everyone follows this person’s Spotify and SoundCloud accounts to see what is shared. This is an amazing skill that requires an enormous amount of time. This music lover invests it gladly though because of the thrill of discovery and the goosebumps when hearing an amazing new track. Now, with imusify, this skill can be monetized for the first time. By becoming a curator on imusify, these gurus can get the recognition they deserve and monetize their efforts just by doing what they love. Along with artists, these users are the driving force behind imusify, and they can now get compensated for their time and deliver high quality curated playlists.
  
-PLATFORM INTERACTIONS
+## PLATFORM INTERACTIONS
  
 imusify’s initial smart contract is designed to complete our token sale, existing as a modified NEO Smart Contract template to meet our specific needs. This initial contract will have basic functionality and distribute IMU to token sale participants. Following the token sale, the platform will be designed by integrating the initial smart contract with additional protocol layers to provide maximum security and flexibility for all users of the platform.
 
-USER RECORDS
+### USER RECORDS
 The key technical value of imusify’s cryptographic security protocol is its ability to store and reference verifiable user and content information. Upon registration (having gone through KYC/AML), a user record is stored on imusify’s data integrity engine, containing a reference key that allows imusify to reference information from KYC/AML providers to verify user identity when necessary. Similarly, each time a registered user creates a new persona, a personal record is stored and linked to the creator’s user record. In this way, each action committed on the platform can be verifiably linked to a corresponding user and persona. This verification process serves to eliminate undesired behavior and negative network interactions.
 
-CONTENT ASSETS
+### CONTENT ASSETS
 When verified users upload content, a similar content record is created to house that piece of content’s identity information. Content records include the owner(s) of the content’s rights, the percent breakdown of owner’s rights (if necessary), and the user who uploaded it.
 
-DISTRIBUTED STORAGE
+### DISTRIBUTED STORAGE
 It is imusify’s goal to ultimately store all data in a decentralized fashion. With this in mind, it is important to note here the relationship between on-chain hash records and off-chain data storage. The greater technical system involves an automated verifier that periodically checks to make sure that the data and actions stored off chain correspond to the hash records on-chain. With this method, imusify harnesses the power of blockchain’s immutability without facing the complications that come from making smart contract calls that contain large data files.
 
-ACTION LOGS
+### ACTION LOGS
 We now can see how imusify uses a combination of on and off-chain storage to track user and content information. Each time a user commits an action with a certain piece
 of content, an action record is created and stored on-chain in the form of a hash. Over time, this architecture will allow for ‘millions’ of action records to be recorded each day without compromising the integrity of the smart contractor creating significant storage costs. Action logs are stored on-chain in order to provide verifiable user data for a variety of uses.
 
-RIGHTS MANAGEMENT
+### RIGHTS MANAGEMENT
 The current landscape of copyright management for musicians around the world is quite ineffective and inefficient. Unfortunately, the organizations at play hold the legal power to force artists and consumers of certain works to comply with a complex list of rules and royalty requirements. imusify provides a solution for decentralizing the management and monitoring of ownership rights, and consumption data that we hope puts pressure on the incumbent organizations to update their infrastructure dramatically. Because each jurisdiction has its own regulatory requirements, imusify will not attempt to find a “gray area” or navigate under the radar in terms of rights management and royalties. Instead, we will implement our decentralized rights management system as a supplemental tool for artists and consumers to view verifiable rights records (yet not legally “copyright”) to provide valuable consumption data to artists about their content. We believe this tool will demonstrate the potential for widespread decentralization of rights management, and push the music industry to evolve towards it.
 
 # IMU TOKEN – THE ECONOMIC ENGINE OF THE imusify PLATFORM
@@ -853,23 +853,23 @@ IMU For sale: 650.000.000
 IMU Price: 0.05 USD                                          
 Currencies accepted: USD, EUR, NEO, Bitcoin (BTC,) Ether (ETH), Litecoin (LTC), Dash (DASH), Bitcoin Cash (BCH), Tether (USDT), Monero (XMR), Ripple (XRP), OmiseGo (OMG)       
                
-PHASES OF imusify TOKEN SALE
+## PHASES OF imusify TOKEN SALE
 The imusify Token Sale is split into three phases, as explained in more detail below.
 
-PHASE I - PRIVATE SALE
+### PHASE I - PRIVATE SALE
 In the Private Sale, the 200,000,000 IMU Tokens are offered to institutional contributors, and individuals who meet applicable conditions and thresholds to qualify as accredited/experienced participants at 40% discount, or special – individually negotiated conditions. The Private Sale is already in progress.
 
-PHASE II – PUBLIC PRE-SALE
+### PHASE II – PUBLIC PRE-SALE
 Upon conclusion of the Private Sale, a limited amount of 100,000,000 IMU Tokens will be offered to the general public, alongside with any tokens that were not sold in the Private Sale at 30% discount. The Whitelisting process is already opened. You can register to participate in the imusify Token Sale at: www.tokensale.imusify.com.
 
-PHASE III – PUBLIC SALE
+### PHASE III – PUBLIC SALE
 The Public Pre-Sale will be followed by the Public Sale, where the designated amount of 350,000,000 IMU Tokens, alongside with any previously unsold tokens, will be offered to the general public, at various discounts, outlined below.
 
  
 
  
  
-OBTAINING AFTER THE imusify TOKEN SALE AND OTHER OFFERS
+### OBTAINING AFTER THE imusify TOKEN SALE AND OTHER OFFERS
 We have reserved a portion of IMU tokens for various special offers, such as our Bounty Program [LINK], and Airdrop Campaign [LINK]. Any tokens that remain unsold in the imusify Token Sale, plus the 80,000,000 tokens reserved for the company will be sold without discount at a price set by imusify to the users. You will also be able to purchase and exchange the IMU tokens on a number of crypto exchanges. Note, however, that we do not control the price of the IMU on such exchanges, and volatility may occur. The IMU is not meant as an investment vehicle, and we strongly discourage any speculation.
 TOKEN SALE ALLOCATION
 
@@ -894,10 +894,15 @@ The imusify platform will deploy a number of new technological solutions to addr
 ### SPLITTING PENNIES
  
 The imusify platform is based on pay-per-stream/download model, where everything a user does is paid for automatically and instantly. This revolutionary approach requires transacting amounts significantly smaller than $0.01, which means, that we need a way to split pennies. IMU(ϑ) is infinitely divisible, enabling us to price a stream at about half a penny. We can even further divide that half a penny to allocate the proceeds of the stream fairly to the contributors of the content.
-COMMUNITY CONTENT CURATION:
+
+### COMMUNITY CONTENT CURATION:
+
 The imusify platform puts content curation into the hands of the community by turning it into a money-making endeavor. If a song is streamed from a playlist, the listener pays a small premium, which is paid-out, to the curator. It doesn’t stop there. Music can be upvoted, or shared, and the community can post and comment. By monetizing all interactions on the platform, we incentivize the community to produce engaging content. All rewards come from actual users, just like in a real-world economy.
-AGENT-CENTRIC INSTEAD OF A DATA-CENTRIC MODEL
-One of the main barriers to mass adoption of distributed applications is the limited scalability due to the fact that traditional blockchain networks require all the nodes in the network to hold a full copy of the entire blockchain. Moreover, for a transaction to be verified at least some kind of majority of nodes need to see the transaction and agree with it. Because the internet has a limited bandwidth, this takes a while. This is known as the propagation delay. The scaling issue can thus be broken down into two components: 1) transfer speed, and 2) file size of the transactions. We cannot influence the former, although we know it will get higher over time, but we can influence the file size.
+
+### AGENT-CENTRIC INSTEAD OF A DATA-CENTRIC MODEL
+One of the main barriers to mass adoption of distributed applications is the limited scalability due to the fact that traditional blockchain networks require all the nodes in the network to hold a full copy of the entire blockchain. Moreover, for a transaction to be verified at least some kind of majority of nodes need to see the transaction and agree with it. Because the internet has a limited bandwidth, this takes a while. This is known as the propagation delay. The scaling issue can thus be broken down into two components: 
+
+1) transfer speed, and 2) file size of the transactions. We cannot influence the former, although we know it will get higher over time, but we can influence the file size.
  
 In our agent-centric model, every user (“agent”) has their own ledger - the “agent chain.” This chain is backed-up by a number of other users, but not copied to everyone in the network. It contains all the actions the agent has performed on the platform. It is and communicates with the “NEO-based main chain” that acts as the validator. This allows us to minimize the amount of information it holds, decreasing the file size by holding the minimum amount of information necessary.
  
@@ -905,8 +910,9 @@ In case a problem is detected by the main chain’s consensus system, the applic
 DATA SECURITY AND IDENTITY VERIFICATION:
 The imusify platform allows users to use pseudonyms, but only after completion of the know your customer (KYC) process by a third party service provider, to establish a digital identity of an individual. The identification data is never disclosed on the network. However, attached to the user ID is an encrypted key that points to their ID verification data, and this is part of the user’s private key to sign transactions. The function of all this is to make it very difficult to create fake accounts and dilute the network, or commit fraud and stay anonymous.
  
-CONFIRMED PARTNERSHIPS
-MUSIC INDUSTRY
+## CONFIRMED PARTNERSHIPS
+
+### MUSIC INDUSTRY
 The project is gaining interest in the music industry, and we have already established a number of partnerships with various players, and are negotiating with others. So far we have confirmed partnerships with:
 
 (i)        Mad Ruk Entertainment
