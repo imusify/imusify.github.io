@@ -884,9 +884,12 @@ After the imusify Token Sale, users will be able to purchase and exchange tokens
 For the purposes of participating in the imusify Token Sale, any token buyer will need to undergo a know-your-customer procedure as required by applicable KYC/AML laws and regulations. Participants from certain restricted jurisdictions (in particular United States of America, Canada, Republic of Korea and Singapore, as specified in more detail in Terms of imusify Token Sale as published on our website www.imusify.com) will not be eligible to participate in the Token Sale. The Whitelisting process is already opened. You can register to participate in the imusify Token Sale at tokensale.imusify.com.
  
 
-**Maximum IMU supply:** 1.000.000.000                                	
-**IMU For sale:** 650.000.000                                    
-**IMU Price:** 0.05 USD                                          
+**Maximum IMU supply:** 1.000.000.000      
+
+**IMU For sale:** 650.000.000             
+
+**IMU Price:** 0.05 USD            
+
 **Currencies accepted:** USD, EUR, NEO, Bitcoin (BTC,) Ether (ETH), Litecoin (LTC), Dash (DASH), Bitcoin Cash (BCH), Tether (USDT), Monero (XMR), Ripple (XRP), OmiseGo (OMG)       
                
 ### PHASES OF imusify TOKEN SALE
