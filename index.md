@@ -537,7 +537,7 @@ Artists, songwriters, record labels and other industry players have begun to tak
 
 
 
-Letter to the European Commission
+**Letter to the European Commission**
 
 
 
@@ -555,7 +555,7 @@ and songwriters. It threatens the survival of the next
 generation of creators too, and the viability and the
 diversity of their work.”*
 
-Signed by Thousands of Artists. 
+**Signed by Thousands of Artists.** 
                                                                
 
 
