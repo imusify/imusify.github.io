@@ -293,7 +293,7 @@ We have a dedicated team of professionals, an award-winning prototype, innovativ
 
 
 
-CONTENTS
+# CONTENTS
 
 THE FRONT PAGE 
 
@@ -1011,19 +1011,33 @@ www.telegram.me/imusifycommunity
 
 
 [1] IFPI , Global Music Report 2017: Annual State Of The Industry
+
 [2] Digital Music, Europe | Statista Market Forecast, https://www.statista.com/outlook/202/102/digital-music/europe#, last accessed on 8.3.2018.
+
 [3] Digital Music, Europe | Statista Market Forecast, https://www.statista.com/outlook/202/102/digital-music/united-states#, last accessed on 8.3.2018.
+
 [4] IFPI , Global Music Report 2017: Annual State Of The Industry
+
 [5] IFPI, Rewarding creativity - fixing the value gap, http://www.ifpi.org/value_gap.php
+
 [6] Daniel Sanchez, What Music Streaming Services Pay, https://www.digitalmusicnews.com/2018/01/16/streaming-music-services-pay-2018/
+
 [7] IFPI, Rewarding creativity - fixing the value gap, http://www.ifpi.org/value_gap.php
+
 [8] Olleros, F. Xavier, and Majlinda Zhegu. Research Handbook on Digital Transformations. Cheltenham, Gloucestershire, UK: Edward Elgar Publishing, 2016.
+
 [9] "What Is a DApp? Decentralized Application on the Blockchain." BlockchainHub. Accessed June 01, 2018. https://blockchainhub.net/decentralized-applications-dapps/.
+
 [10] "Explore Decentralized Applications (projects Built on Ethereum)." State of the dApps - 1450 Projects Built on Ethereum. Accessed June 01, 2018. https://www.stateofthedapps.com/
+
 [11] McCann, Chris. "State of the DApps: 5 Observations From Usage Data (April 2018)." Medium. April 11, 2018. Accessed June 01, 2018. https://medium.com/@mccannatron/state-of-the-dapps-5-observations-from-usage-data-april-2018-a3e9da01bc22.
+
 [12] "Leading Global Social Networks 2018 | Statistic." Statista. Accessed June 01, 2018. https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/
+
 [13] "Cryptocurrency Transaction Speeds: The Complete Review." The Daily Hodl. May 01, 2018. Accessed June 01, 2018. https://dailyhodl.com/2018/04/27/cryptocurrency-transaction-speeds-the-complete-review/.
+
 [14] Yevgeniy Sverdlik,Data Center Knowledge, How Much Is Spotify Paying for Google Cloud?, Accessed August 13, 2018. https://www.datacenterknowledge.com/archives/2016/03/07/how-much-is-spotify-paying-for-google-cloud
+
 [15] More than $100,000 collected in two months preceding the publishing of this version of the White Paper.
 
 
